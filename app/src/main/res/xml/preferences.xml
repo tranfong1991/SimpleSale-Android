@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <PreferenceCategory
+        android:title="Venmo Profile">
+        <EditTextPreference
+            android:key="venmoUserName"
+            android:title="Venmo User Name"
+            android:summary="Tap to change Venmo user name"
+            android:defaultValue="None"/>
+    </PreferenceCategory>
+
+    <PreferenceCategory
+        android:title="Application">
+        <Preference
+            android:title="About"
+            android:summary="@string/summary_about"/>
+    </PreferenceCategory>
+</PreferenceScreen>

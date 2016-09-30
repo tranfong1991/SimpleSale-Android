@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Simple Sale</string>
+    <string name="title_activity_main">Main</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_empty_list">No items</string>
+    <string name="title_activity_login">Login</string>
+    <string name="title_add_item">Add Item</string>
+    <string name="cancel">Cancel</string>
+    <string name="title_activity_add_item">Add Item</string>
+    <string name="title_activity_qrcode">QR Code</string>
+    <string name="summary_about">Created by Andy Tran \nTexas A&amp;M University \nTranAndy.com \nVersion 1.1</string>
+    <string name="search_hint">Item description</string>
+</resources>
